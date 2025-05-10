@@ -8,7 +8,7 @@ Aqui você encontrará desde desafios propostos em disciplinas até experimentos
 ---
 
 ## Status 
-[![lucas-kauanogb GitHub stats-Dracula](https://github-readme-stats.vercel.app/api?username=lucas-kauanogb&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/lucas-kauanogb/github-readme-stats#gh-dracula-mode-only)
+[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-kauanogb&theme=dark&show_icons=true)
 
 ---
 
