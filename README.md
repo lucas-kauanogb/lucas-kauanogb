@@ -1,16 +1,53 @@
-## Hi there 👋
+# Portfólio de Projetos - Lucas Kauan 👨‍💻
+Olá! Meu nome é **Lucas Kauan** e sou estudante de **Engenharia de Software**, interessado por tecnologia, desenvolvimento de sistemas e por aprender continuamente. Este repositório reúne meus projetos acadêmicos e pessoais, aplicando boas práticas de versionamento, documentação e colaboração com Git e GitHub. Aqui você encontrará desde desafios do curso até experimentos e ideias próprias.
 
-<!--
-**lucas-kauanogb/lucas-kauanogb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos durante minha graduação em Engenharia de Software. O objetivo é demonstrar minhas habilidades técnicas em constante desenvolvimento e meu progresso na área.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status 
+[![lucas-kauanogb GitHub stats-Dracula](https://github-readme-stats.vercel.app/api?username=lucas-kauanogb&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/lucas-kauanogb/github-readme-stats#gh-dracula-mode-only)
+
+---
+
+## Linguagens de Programação
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kauanogb&size_weight=0.5&count_weight=0.5)
+
+---
+
+
+## Competências
+
+- Inglês Básico
+- Pacote Office / Google Docs
+- Pensamento Lógico e Analítico
+- Boa comunicação e trabalho em equipe
+- Capacidade de Resolução de problemas
+- Organização e Responsabilidade
+---
+
+
+## 🔧 Tecnologias Utilizadas
+
+ <div style="display: inline_block">
+  <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img align="center" alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Sites-174EA6?style=for-the-badge&logo=google-sites&logoColor=blue"" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Calendar-A50E0E?style=for-the-badge&logo=google-sites&logoColor=white" />
+  <img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</div><br/>
+---
+
+## 🔗 Integrações
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kauan-87ab7535b/)
+[![Vídeo de apresentação](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+---
+
+## 📌 Observações
+
+Sinta-se à vontade para explorar os projetos, sugerir melhorias ou colaborar via pull requests!
