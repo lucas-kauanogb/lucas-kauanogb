@@ -13,7 +13,7 @@ Aqui você encontrará desde desafios propostos em disciplinas até experimentos
 ---
 
 ## Linguagens de Programação
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kauanogb&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas.kauanogb)](https://github.com/lucas-kauanogb/github-readme-stats)
 
 ---
 
